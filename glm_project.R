@@ -198,7 +198,7 @@ plot(model4$linear.predictors, rdev, main = "Plot of Deviance Residuals vs Linea
 
 # Plot of residuals versus case number
 plot(rpear, main = "Index Plot of Pearson Residuals")
-abline(h = c(-2, 2), col = "red")
+abline(h = c(2, -2), col = "red")
 identify(rpear)
 rpear[20]
 # Case 20 is an outlier
