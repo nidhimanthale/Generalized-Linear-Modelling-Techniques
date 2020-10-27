@@ -1,6 +1,6 @@
 # Generalized-Linear-Modelling-Techniques
 
-### About Data ###
+### About the Data ###
 Data were collected on a random sample of people during a swine flu outbreak. The purpose of this research was to understand what factors influenced the change of behavior relating to hygiene. The factors that were taken into account are the Age and Gender of the person, whether the person believed in consequences of contracting swine flu were severe or not and if the person believed the information available about the swine flu was adequate or not.
 
 In our analysis of data we will view change in behavior as the response or dependent variable of Age, Gender, Severe and Information as predictors.
