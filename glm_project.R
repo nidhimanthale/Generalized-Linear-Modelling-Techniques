@@ -36,7 +36,7 @@ plot(Age, Prop)
 #################### Model Building and Selection #################### 
 # Logistic Regression Models
 
-# create predictor variable
+# create response variable
 y <- cbind(Behaviour, n-Behaviour)
 
 # Additive Model
