@@ -219,7 +219,6 @@ D <- rpear * rpear * h / (2 * (1 - h))
 # Plot cook's distances
 plot(D)
 identify(D)
-
 # Cases 15 and 20 are high influence cases
 rpear[15]
 # Case 15 is almost an outlier
